@@ -1,0 +1,8 @@
+feeds:
+  - https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+  - https://feeds.bbci.co.uk/news/technology/rss.xml
+
+email:
+  sender: yourmail@gmail.com
+  recipient: yourmail@gmail.com
+  password: xxxx xxxx xxxx xxxx
